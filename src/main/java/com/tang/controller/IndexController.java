@@ -10,6 +10,6 @@ public class IndexController {
 
     @GetMapping("/list")
     public String list(){
-        return "hello2,list";
+        return "hello4,list";
     }
 }
